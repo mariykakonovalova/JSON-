@@ -1,1 +1,12 @@
+{
 
+ "summary":"missing prise in item",
+ "Priority":"Medium" ,
+ "Severity":"Minor" ,
+ "Description":"missing price in item" ,
+ "Expected_Result":"latest poducts section",
+ "Actual_result":"See the",
+
+ "Steps_to_reproduse":1"Open http://store.demoga.com/",
+                      2"go in the bottom All produkt" ,
+                      3"go to third item called iPod Nano Blueandand you will see"} "$" 0.00
